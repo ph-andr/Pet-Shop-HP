@@ -1,0 +1,142 @@
+@charset "UTF-8";
+@font-face{
+    font-family: 'Courier New', Courier, monospace;
+    src: url(../fontes/bubblegum-sans-regular.otf);
+}
+
+
+
+/* CSS Gato */
+.topo{
+    height: 300px;
+}
+
+#cat {
+    display: inline-block;
+    width: 59%;
+    
+    border-right: 2px solid black;
+    margin: 5px auto;
+}
+
+#lateral_cat{
+    display: block;
+    width: 38%;
+    float: right;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+#lateral_cat2{
+    display: block;
+    width: 38%;
+    float: right;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+#cat p, #lateral_cat p{
+    text-align:justify ;
+    padding: 0px 15px;
+
+}
+
+.titulo_cat{
+    color: royalblue;
+    font-size: 3.0em;
+    text-align: center;
+    font-family: fontplay;
+}
+
+
+table{
+    text-align: center;
+    margin: 0px auto;
+}
+
+/* CSS cachorro */
+
+
+#Dog {
+    display: inline-block;
+    width: 59%;
+    border-right: 2px solid black;
+    margin: 5px auto;
+}
+
+#lateral_Dog{
+    display: block;
+    width: 38%;
+    float: right;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+#lateral_Dog2{
+    display: block;
+    width: 38%;
+    float: right;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+#Dog p, #lateral_Dog p{
+    text-align:justify ;
+    padding: 0px 15px;
+
+}
+
+.titulo_Dog{
+    color: royalblue;
+    font-size: 3.0em;
+    text-align: center;
+    font-family: fontplay;
+}
+
+/*CSS Pass */
+
+#pass {
+    display: inline-block;
+    width: 59%;
+    border-right: 2px solid black;
+    margin: 5px auto;
+}
+
+#lateral_pass{
+    display: block;
+    width: 38%;
+    float: right;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+#lateral_pass2{
+    display: block;
+    width: 38%;
+    float: right;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+#pass p, #lateral_pass p{
+    text-align:justify ;
+    padding: 0px 15px;
+
+}
+
+.titulo_pass{
+    color: royalblue;
+    font-size: 3.0em;
+    text-align: center;
+    font-family: fontplay;
+}
+
+
+
+
+
+
+
+
+
+
