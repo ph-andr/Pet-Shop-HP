@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+#bannerC{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    margin: 0;
+}
